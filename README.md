@@ -1,4 +1,4 @@
-<h3> My projects </h3>
+<h2> My projects </h2>
 <table>
   <thead align="center">
     <tr border: none;>
