@@ -8,16 +8,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/tb000330/Research_Assistant.git"><b>GDP Prediction</b></a></td>
+      <td> Deep Learning, Macroeconomics </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/tb000330/Research_Assistant.git"><b>Climate Change and Financial Stability in Korea</b></a></td>
+      <td> Climate finance, Machine Learning </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tb000330/BPA_Lab.git"><b>Abnomal Detection</b></a></td>
+      <td> Process Optimization, Machine Learning </td>
     </tr>
   </tbody>
 </table>
