@@ -16,7 +16,7 @@
       <td> Climate finance, Machine Learning </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tb000330/BPA_Lab.git"><b>Abnomal Detection</b></a></td>
+      <td><a href="https://github.com/tb000330/BPA_Lab.git"><b>Abnormal Detection</b></a></td>
       <td> Process Optimization, Machine Learning </td>
     </tr>
   </tbody>
